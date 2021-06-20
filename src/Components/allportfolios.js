@@ -20,7 +20,7 @@ const portfolios = [
     {
         id: 2,
         category: 'C#/.NET Projects',
-        link1: 'www.youtube.com',
+        link1: 'https://surplusdeficit.azurewebsites.net/',
         link2: 'www.github.com',
         icon1: 'Website',
         icon2: 'Y',
@@ -39,7 +39,6 @@ const portfolios = [
     title: 'E-Coffee E-Commerce Site',
     paragraph: 'E-Commerce site for a coffee company. Made using C# and ASP.NET with Visual Studio 2019'
     }  
-  
 
 ]
 
