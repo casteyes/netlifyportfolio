@@ -11,7 +11,7 @@ function ImageSection() {
             <div className="about-info">
                 <h4>I am<span> Daniel Collins</span></h4>
                 <p className="about-text">
-                   Hello, I’m a full stack web developer and designer living in Jacksonville, Florida, United States. 
+                    Hello, I’m a full stack web developer and designer living in Jacksonville, Florida, United States. 
                 I spend my days with my hands in many different areas of web development, from back end 
                 programming (.NET, C#, Java, Node.js) to database mangement(SQL, MySQL, Microsoft Azure) to front end engineering (HTML5, SCSS ,CSS3, jQuery/Javascript, React).  
                 </p>
@@ -33,7 +33,7 @@ function ImageSection() {
                         <p>: Florida</p>
                     </div>
                 </div>
-                <button className="btn">Download Cv</button>
+                <a href="https://www.slideshare.net/DanielCollins101/computing-is-resume-1-224402006"><button className="btn">Resume</button></a>
             </div>
         </div>
     )
