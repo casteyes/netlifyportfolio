@@ -5,7 +5,7 @@ import email from '../img/emailme.svg';
 import location from '../img/location.svg';
 import Title from '../Components/Title';
 import {motion} from 'framer-motion';
-import Particle from '../Components/Particle';
+
 
 
 function ContactPage() {
