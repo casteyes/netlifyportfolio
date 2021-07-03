@@ -6,7 +6,7 @@ const portfolios = [
     {
         id: 1,
         category: 'React Projects',
-        link1: 'www.youtube.com',
+        link1: 'https://portfoliotasktracker.netlify.app/',
         link2: 'www.github.com',
         icon1: 'Website',
         icon2: 'Y',
