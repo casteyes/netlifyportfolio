@@ -33,7 +33,7 @@ function ImageSection() {
                         <p>: Florida</p>
                     </div>
                 </div>
-                <a href="https://www.slideshare.net/DanielCollins101/computing-is-resume-1-224402006"><button className="btn">Resume</button></a>
+                <a href="https://www.slideshare.net/DanielCollins101/computing-is-resume-final-version-4"><button className="btn">Resume</button></a>
             </div>
         </div>
     )
