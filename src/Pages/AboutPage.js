@@ -28,7 +28,7 @@ function AboutPage() {
             </div>
             <Title title={'Services'} span={'Services'} />
             <div className="services-container">
-                <ServicesSection image={design} title={'Front-end Technology'} text={'HTML5, SCSS ,CSS3, Javascript,Jquery, React'}/>
+                <ServicesSection image={design} title={'Front-end Technology'} text={'HTML5, SCSS ,CSS3, Javascript, React'}/>
                 <ServicesSection image={design} title={'Back-end Development'} text={'.NET, C#, Java, Node.js, Linux Command Line'}/>
                 <ServicesSection image={design} title={'Database and Cache'} text={'SQL(Structed Query Language), MySQL, Azure'}/>
             </div>
