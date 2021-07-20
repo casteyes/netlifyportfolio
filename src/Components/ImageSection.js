@@ -18,7 +18,7 @@ function ImageSection() {
                 <div className="about-details">
                     <div className="left-section">
                         <p>Full Name</p>
-                        <p>Age</p>
+                        <p>University</p>
                         <p>Nationality</p>
                         <p>Languages</p>
                         <p>City</p>
@@ -26,7 +26,7 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Daniel Collins</p>
-                        <p>: 31</p>
+                        <p>: UNF</p>
                         <p>: American</p>
                         <p>: English</p>
                         <p>: Jacksonville</p>
