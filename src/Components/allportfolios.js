@@ -2,6 +2,7 @@ import port1 from '../img/portImages/TaskTracker.jpg';
 import port2 from '../img/portImages/SurplusDeficitAutomationSystem.jpg';
 import port3 from '../img/portImages/ECoffeePicture.jpg';
 import port4 from '../img/portImages/CodrImage.png';
+import port5 from '../img/portImages/NasaApi.png';
 
 const portfolios = [
     {
@@ -17,6 +18,17 @@ const portfolios = [
     },
     {
         id: 2,
+        category: 'React Projects',
+        link1: 'https://nasaapiproject.netlify.app/',
+        link2: 'www.github.com',
+        icon1: 'Website',
+        icon2: 'Y',
+        image: port5,
+        title: 'Nasa Api Project',
+        paragraph: 'Web Application retrives an image object from the Nasa Api '
+    },
+    {
+        id: 3,
         category: 'C#/.NET Projects',
         link1: 'https://surplusdeficit.azurewebsites.net/',
         link2: 'www.github.com',
@@ -27,7 +39,7 @@ const portfolios = [
         paragraph: 'Surplus Deficent application made for the non-profit organization ElderSource. Made using C# and ASP.NET with Visual Studio 2019'
     },
     {
-    id: 3,
+    id: 4,
     category: 'C#/.NET Projects',
     link1: 'www.youtube.com',
     link2: 'www.github.com',
@@ -38,7 +50,7 @@ const portfolios = [
     paragraph: 'E-Commerce site for a coffee company. Made using C# and ASP.NET with Visual Studio 2019'
     }, 
     {
-        id: 4,
+        id: 5,
         category: 'React Projects',
         link1: 'https://portfoliotasktracker.netlify.app/',
         link2: 'www.github.com',
